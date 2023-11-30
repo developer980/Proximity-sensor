@@ -3,6 +3,7 @@
 - Proximity sensor using ultrasounds to return the distance between the sensor and the object located in front of it.
 - The distance is calculated using the distance (d) equation based on the speed (v) of sound and the time (t): d = v * t
 - In our case, the distance is: d = (v*t)/2
+- v = speed of sound
 - By the time the sound returns to the ultrasonic sensor, it would have travelled twice the distance between the sensor and the object
 
   ## Components:
