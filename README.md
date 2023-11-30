@@ -12,3 +12,5 @@
   - 1 LCD I2C Display for displaying the measured distance
   
     ![WhatsApp Image 2023-11-30 at 21 17 23_ed52ef97](https://github.com/developer980/Proximity-sensor/assets/91996303/f66ad444-2f77-4c70-94e7-0db6e36c183c)
+
+## A demonstration can be found in the "Proximity sensor.mp4" file in the repo.
